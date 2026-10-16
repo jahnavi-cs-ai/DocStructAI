@@ -1,0 +1,41 @@
+[
+  {
+    "document": "01_digital_11_columns.pdf",
+    "pages": 1,
+    "ground_truth_rows": 8,
+    "extracted_rows": 8,
+    "ground_truth_columns": 11,
+    "extracted_columns": 11,
+    "headers_exact": true,
+    "row_exact_recall": 1.0,
+    "cell_exact_recall": 1.0,
+    "review_flags": 0,
+    "warnings": []
+  },
+  {
+    "document": "02_multipage_statement.pdf",
+    "pages": 3,
+    "ground_truth_rows": 32,
+    "extracted_rows": 32,
+    "ground_truth_columns": 10,
+    "extracted_columns": 10,
+    "headers_exact": true,
+    "row_exact_recall": 1.0,
+    "cell_exact_recall": 1.0,
+    "review_flags": 0,
+    "warnings": []
+  },
+  {
+    "document": "03_scanned_image_table.pdf",
+    "pages": 1,
+    "ground_truth_rows": 8,
+    "extracted_rows": 8,
+    "ground_truth_columns": 4,
+    "extracted_columns": 4,
+    "headers_exact": true,
+    "row_exact_recall": 0.875,
+    "cell_exact_recall": 0.969,
+    "review_flags": 0,
+    "warnings": []
+  }
+]
